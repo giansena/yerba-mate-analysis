@@ -80,7 +80,7 @@ The objective was not to build a complex model, but to demonstrate the ability t
 
 ## Results and Conclusions
 **Significant Historical Growth**
-Production increased by more than 1000% since 1970, reflecting territorial expansion and sector consolidation.
+Production increased by more than 47.25 % since 2000, reflecting territorial expansion and sector consolidation.
 **Identification of Structural Anomalies**
 The production jump between 1998 and 1999 was not accompanied by a proportional increase in yield, suggesting methodological changes, area expansion, or statistical restructuring.
 **Direct Relationship Between Area and Production**
@@ -176,7 +176,7 @@ El objetivo no fue construir un modelo complejo, sino demostrar capacidad de:
 ## Resultados y Conclusiones (En términos de negocio)
 
 **Crecimiento histórico significativo**
-La producción mostró un crecimiento acumulado superior al 1000% desde 1970, reflejando expansión territorial y consolidación del sector.
+La producción mostró un crecimiento acumulado superior al 47.25 % desde el año 2000, reflejando expansión territorial y consolidación del sector.
 
 **Identificación de anomalías estructurales**
 El salto productivo entre 1998 y 1999 no estuvo acompañado por un incremento proporcional en rendimiento, lo que sugiere cambios metodológicos, ampliación de superficie o reestructuración estadística.
